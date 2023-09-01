@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
 
     private void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.lockState = CursorLockMode.Locked; *fareyi kaldýrýyor*
     }
 
     private void Update()
