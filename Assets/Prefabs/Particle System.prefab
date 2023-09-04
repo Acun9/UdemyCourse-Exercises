@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2014921603561794195}
   - component: {fileID: 5584125069952817438}
   m_Layer: 0
-  m_Name: Particle System (like bullet)
+  m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
